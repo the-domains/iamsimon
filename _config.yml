@@ -1,6 +1,6 @@
 name: iamsimon
 favicon: null
-layout_spectrum: 0.5816738582216203
+layout_spectrum: 0.76956
 typography_spectrum: 0.7498421985656023
 title: 'WEST END CAMERA CLUB '
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#030303'
+    - '#31341f'
+    - '#eff3f2'
+    - '#7f5d41'
+    - '#c3bfbb'
   brandStrength: 0.5086586026009172
   lightness: 0.8839919390156865
   saturation: 0.657612671609968
